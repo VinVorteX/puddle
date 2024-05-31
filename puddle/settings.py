@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-j9&ajd!1w#)#u@)o6ijcm-)f*_x#_i_a2$qn$19381wkm9wn3_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [puddlecomm.onrender.com]
+ALLOWED_HOSTS = [puddle.onrender.com]
 
 LOGIN_URL = '/login/'
 LOGIN_REDIRECT_URL = '/'
